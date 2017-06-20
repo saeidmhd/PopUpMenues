@@ -124,10 +124,6 @@
         "source": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/exploded-aar/com.android.support/design/25.3.1/res/layout/design_layout_snackbar_include.xml"
     },
     {
-        "merged": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/res/merged/debug/layout/row_list.xml",
-        "source": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/src/main/res/layout/row_list.xml"
-    },
-    {
         "merged": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
         "source": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/notification_action.xml"
     },
@@ -180,10 +176,6 @@
         "source": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/res/merged/debug/layout/activity_incidence.xml",
-        "source": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/src/main/res/layout/activity_incidence.xml"
-    },
-    {
         "merged": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/res/layout/abc_popup_menu_item_layout.xml"
     },
@@ -234,10 +226,6 @@
     {
         "merged": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/res/merged/debug/layout/activity_menu_detail.xml",
         "source": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/src/main/res/layout/activity_menu_detail.xml"
-    },
-    {
-        "merged": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/res/merged/debug/layout/activity_inheritance.xml",
-        "source": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/src/main/res/layout/activity_inheritance.xml"
     },
     {
         "merged": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",

@@ -5,26 +5,22 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="16816695092104"
+    timestamp="29032389575680"
     token="3366394832859174967"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="3585" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="841" />
+        duration="0" />
     <task
         name="verifier"
-        duration="92" />
-
-    <artifact
-        location="/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/outputs/apk/app-debug.apk"
-        type="MAIN" />
+        duration="0" />
 
     <build
         timestamp="16816695092104"
@@ -33,5 +29,31 @@
             location="/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
+    <build
+        timestamp="20493162376880"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="21292621326030"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+    <build
+        timestamp="29032389575680"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
