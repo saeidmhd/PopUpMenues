@@ -1,0 +1,7 @@
+#Tue Jun 20 13:41:19 IRDT 2017
+base.0=/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e49b3f50117801c4439179189ee3262c187fe18e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c4d341062df9d349136c83182316489b7db53718/classes.dex
+base.1=/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c4d341062df9d349136c83182316489b7db53718
+file.0=/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e49b3f50117801c4439179189ee3262c187fe18e/classes.dex

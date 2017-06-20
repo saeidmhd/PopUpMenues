@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ir.toptechnica.popupmenues">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+
+
+
+
+            <meta-data
+                android:name="android.app.default_searchable"
+                android:value=".SearchResultsActivity" />
+        </activity>
+        <activity
+            android:name=".DescriptionActivity"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name=".DDXActivity"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name=".IncidenceActivity"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name=".InheritanceActivity"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name=".ImagesActivity"
+            android:theme="@style/AppTheme2" />
+        <activity android:name=".SearchResultsActivity">
+
+            <!-- This intent-filter identifies this activity as "searchable"
+
+             <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+             -->
+
+            <!-- This metadata entry provides further configuration details for searches -->
+            <!-- that are handled by this activity. -->
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <activity android:name=".SyndromeList">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+    </application>
+
+</manifest>

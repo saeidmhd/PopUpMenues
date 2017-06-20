@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+    android:id="@+id/incidence"
+    android:icon="@android:drawable/ic_menu_delete"
+    android:title="شیوع"
+  />
+
+  <item
+    android:id="@+id/inheritance"
+    android:icon="@android:drawable/ic_menu_edit"
+    android:title="توارث"
+  />
+
+  <item
+      android:id="@+id/DDX"
+      android:icon="@android:drawable/ic_menu_edit"
+      android:title="DDX"
+      />
+
+  <item
+      android:id="@+id/Images"
+      android:icon="@android:drawable/ic_menu_edit"
+      android:title="تصاویر"
+      />
+
+</menu>

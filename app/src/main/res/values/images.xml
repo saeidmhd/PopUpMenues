@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="frag_imgs">
+        <item>@drawable/gen1</item>
+        <item>@drawable/gen2</item>
+        <item>@drawable/gen3</item>
+    </array>
+
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/res/merged/debug/menu/contextmenu.xml",
+        "source": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/src/main/res/menu/contextmenu.xml"
+    },
+    {
+        "merged": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/build/intermediates/res/merged/debug/menu/options_menu.xml",
+        "source": "/Users/admin1/Documents/AndroidMahak/PopUpMenues/app/src/main/res/menu/options_menu.xml"
+    }
+]
